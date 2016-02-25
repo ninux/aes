@@ -28,6 +28,23 @@ Weiterführende Links:
 
 # 3. Paradigmenwechsel, Klimaveränderung
 
+Das Konsumverhalten und der technologische Fortschritt gehen eindeutig
+in eine Richtung: Es braucht von allem Mehr. Es wird nach mehr
+Mobilität verlangt und nach mehr Dienstleistungen in Form von Services
+verschiedenster Arten. Angefangen beim Smartphone, der Cloud, der
+IP-Verbindung zur Glühbirne und bis hin zur beheizten Vorfahrt und
+Garage. All dies bracuht mehr Energie. Im Gegensatz zu vergangenen
+Jahrzehnten ist das Thema Energieeffizient heute in aller Munde und
+ist auch ausserhalb der Politik ein Thema. Es ist ein Bewusstsein
+entstanden beim Endkunden welcher sich Gedanken macht, ob ein
+Produkt A dem Produkt B vorzuziehen ist aufgrund der Energieeffizienz.
+Dies nicht nur aufgrund der anfallenden Kosten sondern basierend auf
+dem Umwelttechnischen Gedanken. Dies ist allerdings ein Umdenken auf
+Mikroskopischer Ebene wenn man bedenkt, dass die grossen Probleme
+in der Energieerzeugung liegen. Selbstverständlich sind diese
+direkt davon beeinflusst, ob die Masse an privater Endverbracher
+energieeffizientere Produkte benutzen oder nicht.
+
 ---
 
 # 4. Herausforderungen der dezentralen Stromerzeugung
