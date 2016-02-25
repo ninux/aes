@@ -14,6 +14,7 @@ im Jahr 1972 massiv besser als heute.
 
 Weiterführende Links:
 - [Netzverluste](https://www.nema.org/Products/Documents/TDEnergyEff.pdf)
+- [FAQ der U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/)
 
 ## 1.2
 
